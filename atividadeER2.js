@@ -11,14 +11,30 @@ Considere a quantidade de alunos presentes na sala, percorra do zero até o núm
 Para criação desse sistema de cadastro, você, enquanto programador(a) responsável, deverá solucionar os seguintes desafios:
 - Aplicar técnicas de programação e ferramentas para desenvolvimento do código
 - Aplicar linguagem de programação Javascript para implementação do sistema.
-
+*/
+/*
 let numeroDeAlunos = 10;
-
+//for automatico gerado pelo vscode
 for (let index = 0; index < array.length; index++) {
     const element = array[index];
     
 }
 */
+
+//teste
+/*
+let numeroDeAlunos = 10;
+
+for(let contador = 0; contador <= numeroDeAlunos; contador++)
+{
+    if(contador == contador){
+        console.log("O número atual é " + contador)
+    }
+}
+*/
+
+//Primeira forma de resolver o exercício
+
 /*
 let numeroDeAlunos = 10;
 
